@@ -1,0 +1,16 @@
+{
+  "name": "sunwin-predictor",
+  "version": "1.0.0",
+  "description": "Tai Xiu prediction server (Ultra Dice Prediction System)",
+  "main": "sever2.js",
+  "scripts": {
+    "start": "node sever2.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
